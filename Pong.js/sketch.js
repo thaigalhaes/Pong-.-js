@@ -102,10 +102,10 @@ function colisaoRaquete(x,y){
 
 
 function movimentaRaquete2(){
-  /* jogar com o computador 
-  velocidadeYR2 = yBolinha -yRaquete2 - comprimento / 2 - 30; yRaquete2 += velocidadeYR2 */
+  //Jogar com o computador 
+  /* velocidadeYR2 = yBolinha -yRaquete2 - comprimento / 2 - 30; yRaquete2 += velocidadeYR2 */
   
-  //multiplayer
+  //Multiplayer
   if (keyIsDown (87)){
     yRaquete2 -= 10;
   }
