@@ -2,8 +2,8 @@
 
 ## Como jogar 
 
--Utilizando as setas " Para cima" (para subir) e "Para baixo" (para descer).
--Multiplayer: utilizando as teclas "W" (para subir) e "S" (para descer).
+- Utilizando as setas " Para cima" (para subir) e "Para baixo" (para descer).
+- Multiplayer: utilizando as teclas "W" (para subir) e "S" (para descer).
 
 ## Tipos
 
