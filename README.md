@@ -12,13 +12,6 @@
 
 ## Contra o computador 
 -Va ao file sketch.js.
--Retire o comentario da linha 106:  velocidadeYR2 = yBolinha -yRaquete2 - comprimento / 2 - 30; yRaquete2 += velocidadeYR2. 
--deixe como comentario o texto da linha 109-115 :
-if (keyIsDown (87)){
-    yRaquete2 -= 10;
-  }
-   if (keyIsDown (83)){
-    yRaquete2 += 10;
-  } 
-}
+-Retire o comentario da linha 106.
+-deixe como comentario o texto da linha 109-115.
 
