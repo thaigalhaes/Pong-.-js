@@ -11,7 +11,7 @@
 - Multiplayer.
 
 ## Contra o computador 
--Va ao file sketch.js.
--Retire o comentario da linha 106.
--deixe como comentario o texto da linha 109-115.
+- Va ao file sketch.js.
+- Retire o comentario da linha 106.
+- deixe como comentario o texto da linha 109-115.
 
